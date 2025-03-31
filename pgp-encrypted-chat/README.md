@@ -60,31 +60,6 @@ This will launch the app in your default web browser at `http://localhost:3000`.
 
 
 
-This project is licensed under the MIT License. See the LICENSE file for details.## LicenseDeveloped for [COURSE CODE] at [UNIVERSITY NAME]. The implementation applies theoretical cryptographic concepts in a practical web application context.## Academic Context- Secure handling of private keys with passphrases- Digital signatures and identity verification- Key pair generation and management- Asymmetric encryption principlesThis project demonstrates several important cryptographic concepts:## Educational Purpose- `src/theme.js`: Custom Material-UI theme configuration- `src/styles/`: CSS styles for application components- `src/data/`: Mock user data for demonstration- `src/services/`: Cryptographic helper functions using OpenPGP.js- `src/components/`: React components for the application UI- `public/`: Contains the main HTML file and favicon## Code Structure- **Styling**: Custom styling with emotion/styled and CSS- **Encryption**: OpenPGP.js v5.3.0 implementation of the PGP standard- **UI Framework**: Material-UI v5 with custom theming- **Frontend**: React 17 with functional components and hooks## Technical Implementation5. **Send & Receive**: Send encrypted messages and decrypt received messages using your private key5. **Send & Receive**: Send encrypted messages and decrypt received messages using your private key
+This project is licensed under the MIT License. See the LICENSE file for details.## LicenseDeveloped at UNIVERSITY of ALGIERS 1. The implementation applies theoretical cryptographic concepts in a practical web application context.## Academic Context- Secure handling of private keys with passphrases- Digital signatures and identity verification- Key pair generation and management- Asymmetric encryption principlesThis project demonstrates several important cryptographic concepts:## Educational Purpose- `src/theme.js`: Custom Material-UI theme configuration- `src/styles/`: CSS styles for application components- `src/data/`: Mock user data for demonstration- `src/services/`: Cryptographic helper functions using OpenPGP.js- `src/components/`: React components for the application UI- `public/`: Contains the main HTML file and favicon## Code Structure- **Styling**: Custom styling with emotion/styled and CSS- **Encryption**: OpenPGP.js v5.3.0 implementation of the PGP standard- **UI Framework**: Material-UI v5 with custom theming- **Frontend**: React 17 with functional components and hooks## Technical Implementation5. **Send & Receive**: Send encrypted messages and decrypt received messages using your private key5. **Send & Receive**: Send encrypted messages and decrypt received messages using your private key.
 
 
-
-
-
-
-
-
-This project is licensed under the MIT License. See the LICENSE file for details.## LicenseDeveloped for a Security course at The University of Algiers 1. The implementation applies theoretical cryptographic concepts in a practical web application context.
-
-
-
-
-
-## Academic Context- Secure handling of private keys with passphrases- Digital signatures and identity verification- Key pair generation and management
-
-- Asymmetric encryption principlesThis project demonstrates several important cryptographic concepts:## Educational Purpose
-
-- `src/theme.js`: Custom Material-UI theme configuration- `src/styles/`: CSS styles for application components
-
-
-
-- `src/data/`: Mock user data for demonstration- `src/services/`: Cryptographic helper functions using OpenPGP.js
-- `src/components/`: React components for the application UI- `public/`: Contains the main HTML file and favicon## Code Structure
-- **Styling**: Custom styling with emotion/styled and CSS- **Encryption**: OpenPGP.js v5.3.0 implementation of the PGP standard## Technical Implementation
-- **Frontend**: React 17 with functional components and hooks
-- **UI Framework**: Material-UI v5 with custom theming
