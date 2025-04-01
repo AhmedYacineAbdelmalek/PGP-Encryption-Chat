@@ -1,6 +1,6 @@
 # PGP Encrypted Chat
 
-## University Assignmentty Assignment
+## University  Assignment
 This project was developed as part of a university assignment focused on applied cryptography and secure communications. It demonstrates the practical implementation of PGP encryption in a modern web application.
 
 ## Overview
